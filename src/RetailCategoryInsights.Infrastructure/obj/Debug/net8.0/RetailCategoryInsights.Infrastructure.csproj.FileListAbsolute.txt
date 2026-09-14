@@ -1,0 +1,15 @@
+C:\Users\knair\Desktop\project\src\RetailCategoryInsights.Infrastructure\bin\Debug\net8.0\RetailCategoryInsights.Infrastructure.deps.json
+C:\Users\knair\Desktop\project\src\RetailCategoryInsights.Infrastructure\bin\Debug\net8.0\RetailCategoryInsights.Infrastructure.dll
+C:\Users\knair\Desktop\project\src\RetailCategoryInsights.Infrastructure\bin\Debug\net8.0\RetailCategoryInsights.Infrastructure.pdb
+C:\Users\knair\Desktop\project\src\RetailCategoryInsights.Infrastructure\bin\Debug\net8.0\RetailCategoryInsights.Core.dll
+C:\Users\knair\Desktop\project\src\RetailCategoryInsights.Infrastructure\bin\Debug\net8.0\RetailCategoryInsights.Core.pdb
+C:\Users\knair\Desktop\project\src\RetailCategoryInsights.Infrastructure\obj\Debug\net8.0\RetailCategoryInsights.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\knair\Desktop\project\src\RetailCategoryInsights.Infrastructure\obj\Debug\net8.0\RetailCategoryInsights.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\knair\Desktop\project\src\RetailCategoryInsights.Infrastructure\obj\Debug\net8.0\RetailCategoryInsights.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\knair\Desktop\project\src\RetailCategoryInsights.Infrastructure\obj\Debug\net8.0\RetailCategoryInsights.Infrastructure.AssemblyInfo.cs
+C:\Users\knair\Desktop\project\src\RetailCategoryInsights.Infrastructure\obj\Debug\net8.0\RetailCategoryInsights.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\knair\Desktop\project\src\RetailCategoryInsights.Infrastructure\obj\Debug\net8.0\RetailCa.D4C4279C.Up2Date
+C:\Users\knair\Desktop\project\src\RetailCategoryInsights.Infrastructure\obj\Debug\net8.0\RetailCategoryInsights.Infrastructure.dll
+C:\Users\knair\Desktop\project\src\RetailCategoryInsights.Infrastructure\obj\Debug\net8.0\refint\RetailCategoryInsights.Infrastructure.dll
+C:\Users\knair\Desktop\project\src\RetailCategoryInsights.Infrastructure\obj\Debug\net8.0\RetailCategoryInsights.Infrastructure.pdb
+C:\Users\knair\Desktop\project\src\RetailCategoryInsights.Infrastructure\obj\Debug\net8.0\ref\RetailCategoryInsights.Infrastructure.dll

@@ -1,0 +1,6 @@
+@RetailCategoryInsights.Api_HostAddress = http://localhost:5234
+
+GET {{RetailCategoryInsights.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\knair\\Desktop\\project\\src\\RetailCategoryInsights.Api\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\knair\\Desktop\\project\\src\\RetailCategoryInsights.Api\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\knair\\Desktop\\project\\src\\RetailCategoryInsights.Api\\wwwroot\\main-4LR2KVZ2.js",
+      "PackagePath": "staticwebassets\\main-4LR2KVZ2.js"
+    },
+    {
+      "Id": "C:\\Users\\knair\\Desktop\\project\\src\\RetailCategoryInsights.Api\\wwwroot\\main-NWRLQCCY.js",
+      "PackagePath": "staticwebassets\\main-NWRLQCCY.js"
+    },
+    {
+      "Id": "C:\\Users\\knair\\Desktop\\project\\src\\RetailCategoryInsights.Api\\wwwroot\\styles-NB3NE734.css",
+      "PackagePath": "staticwebassets\\styles-NB3NE734.css"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.RetailCategoryInsights.Api.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.RetailCategoryInsights.Api.props",
+      "PackagePath": "build\\RetailCategoryInsights.Api.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.RetailCategoryInsights.Api.props",
+      "PackagePath": "buildMultiTargeting\\RetailCategoryInsights.Api.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.RetailCategoryInsights.Api.props",
+      "PackagePath": "buildTransitive\\RetailCategoryInsights.Api.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
